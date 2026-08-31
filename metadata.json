@@ -1,0 +1,6 @@
+{
+  "name": "VibeBuilding",
+  "description": "Persistent Habit Reminder and Daily Journal Assistant built during the beginner vibe coding course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
